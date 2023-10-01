@@ -79,10 +79,3 @@ COMPLIMENT_RESPONSES = [
     "thanks! i'm here to help.", "that's so kind of you to say!",
     "thanks, i'm glad to be of service!", "thank you, i'm doing my best!",
     "i'm glad you think so, thank you!"]
-
-# We want a kind chatbot when people get a little angry
-COMPLIMENT_INPUTS = (
-    "aghh")
-
-COMPLIMENT_RESPONSES = [
-    "don't worry, be happy"]
